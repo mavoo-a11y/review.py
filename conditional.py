@@ -1,4 +1,4 @@
-Marvin_weight = 60.0
+Marvin_weight = 40.0
 normal_weight = 50.0
 
 if Marvin_weight < normal_weight:
